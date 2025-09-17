@@ -1,0 +1,393 @@
+{
+  "stats": {
+    "suites": 2,
+    "tests": 19,
+    "passes": 17,
+    "pending": 0,
+    "failures": 2,
+    "start": "2025-09-17T06:26:23.718Z",
+    "end": "2025-09-17T06:26:23.771Z",
+    "duration": 53
+  },
+  "tests": [
+    {
+      "title": "isPositive should return a boolean value whether a number is positive",
+      "fullTitle": "core-js-conditions-n-loops isPositive should return a boolean value whether a number is positive",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "getMaxNumber should return the maximum of three numbers",
+      "fullTitle": "core-js-conditions-n-loops getMaxNumber should return the maximum of three numbers",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "canQueenCaptureKing should return true if a queen can capture a king",
+      "fullTitle": "core-js-conditions-n-loops canQueenCaptureKing should return true if a queen can capture a king",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "isIsoscelesTriangle should return boolean whether the triangle is isosceles",
+      "fullTitle": "core-js-conditions-n-loops isIsoscelesTriangle should return boolean whether the triangle is isosceles",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "convertToRomanNumerals should return the number converted to Roman numerals",
+      "fullTitle": "core-js-conditions-n-loops convertToRomanNumerals should return the number converted to Roman numerals",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "convertNumberToString should the original number as a string with numbers replaced by words",
+      "fullTitle": "core-js-conditions-n-loops convertNumberToString should the original number as a string with numbers replaced by words",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "isPalindrome should return a boolean value whether a string is palindrome",
+      "fullTitle": "core-js-conditions-n-loops isPalindrome should return a boolean value whether a string is palindrome",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "getIndexOf should return the index of the first occurrence if the string contains the desired letter",
+      "fullTitle": "core-js-conditions-n-loops getIndexOf should return the index of the first occurrence if the string contains the desired letter",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "isContainNumber should bool value whether the number contains the desired digit",
+      "fullTitle": "core-js-conditions-n-loops isContainNumber should bool value whether the number contains the desired digit",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "getBalanceIndex should returns the index of the balancer element",
+      "fullTitle": "core-js-conditions-n-loops getBalanceIndex should returns the index of the balancer element",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "getSpiralMatrix should return a matrix of size * size that is filled with numbers in ascending order",
+      "fullTitle": "core-js-conditions-n-loops getSpiralMatrix should return a matrix of size * size that is filled with numbers in ascending order",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "rotateMatrix should return the original array rotated by an angle of 90 degrees clockwise",
+      "fullTitle": "core-js-conditions-n-loops rotateMatrix should return the original array rotated by an angle of 90 degrees clockwise",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sortByAsc should return a sorted array",
+      "fullTitle": "core-js-conditions-n-loops sortByAsc should return a sorted array",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "shuffleChar should return a string in which characters with an odd index are moved to the end of the string at each iteration",
+      "fullTitle": "core-js-conditions-n-loops shuffleChar should return a string in which characters with an odd index are moved to the end of the string at each iteration",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {
+        "stack": "AssertionError [ERR_ASSERTION]: '031425' == '024135'\n    at Context.<anonymous> (test\\conditions-n-loops-tests.js:505:14)\n    at Context.test (extensions\\it-optional.js:17:12)\n    at process.processImmediate (node:internal/timers:485:21)",
+        "message": "'031425' == '024135'",
+        "generatedMessage": true,
+        "name": "AssertionError",
+        "code": "ERR_ASSERTION",
+        "actual": "031425",
+        "expected": "024135",
+        "operator": "=="
+      }
+    },
+    {
+      "title": "getNearestBigger should return the nearest larger number made up of the digits of the original number",
+      "fullTitle": "core-js-conditions-n-loops getNearestBigger should return the nearest larger number made up of the digits of the original number",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "optimal implementation of convertNumberToString",
+      "fullTitle": "core-js-conditions-n-loops optimal implementation optimal implementation of convertNumberToString",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "speed test of sortByAsc",
+      "fullTitle": "core-js-conditions-n-loops optimal implementation speed test of sortByAsc",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 5,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "speed test of shuffleChar",
+      "fullTitle": "core-js-conditions-n-loops optimal implementation speed test of shuffleChar",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {
+        "stack": "AssertionError [ERR_ASSERTION]: '1702772163609486962179418656138366127956472784392241840956354096391009282719199747162232966943061907797255898884190676750596558153267651496210947289615681959070836910613623583127363683162827029840142262052549994702300841949825369878950918654911990474584003407965218731208675845531904252494622461723651337404027245217597282854016804442721156082312316519235990981917832752169368707596825429589677604425539010292219225857596249694503702577995498486415178166713027587645501091518980305017097708004066081734092295... == '1588059573415675635346786934741672654605665421218506072229438905482163294525287643333323954793474941822492503836292432179913354749461937291482146687445061355898779019205499955085966618612081560168575754704012226137081529219117664231264465965136438355268293879954940552962728290646114887093106321062993215088017420912158268195805523162604682054007547331971946115687338573091950927167844006152996096336584197793797723761899585746977168719028545483035938032142986626827611586787559221707000201684551246855377429...\n    at Context.test (test\\conditions-n-loops-tests.js:630:12)\n    at Context.test (extensions\\it-optional.js:17:12)\n    at process.processImmediate (node:internal/timers:485:21)",
+        "message": "'1702772163609486962179418656138366127956472784392241840956354096391009282719199747162232966943061907797255898884190676750596558153267651496210947289615681959070836910613623583127363683162827029840142262052549994702300841949825369878950918654911990474584003407965218731208675845531904252494622461723651337404027245217597282854016804442721156082312316519235990981917832752169368707596825429589677604425539010292219225857596249694503702577995498486415178166713027587645501091518980305017097708004066081734092295... == '1588059573415675635346786934741672654605665421218506072229438905482163294525287643333323954793474941822492503836292432179913354749461937291482146687445061355898779019205499955085966618612081560168575754704012226137081529219117664231264465965136438355268293879954940552962728290646114887093106321062993215088017420912158268195805523162604682054007547331971946115687338573091950927167844006152996096336584197793797723761899585746977168719028545483035938032142986626827611586787559221707000201684551246855377429...",
+        "generatedMessage": true,
+        "name": "AssertionError",
+        "code": "ERR_ASSERTION",
+        "actual": "1702772163609486962179418656138366127956472784392241840956354096391009282719199747162232966943061907797255898884190676750596558153267651496210947289615681959070836910613623583127363683162827029840142262052549994702300841949825369878950918654911990474584003407965218731208675845531904252494622461723651337404027245217597282854016804442721156082312316519235990981917832752169368707596825429589677604425539010292219225857596249694503702577995498486415178166713027587645501091518980305017097708004066081734092295589843166791114661428358083388345665757246103395691006885423429736253325031501488062491945314612508920676949786919586544693737737285994562566561425568949858887996510223188257331953472110099116985199168699012617351441971312401005667313129126894799125770529717171264000143235432873608541278857614020184432552888131979178194921634649137475474999601223315024312068566665688213710051349544330759945488836598937997192185449739091751841114402463438523302563643474827434754169088639558761850092258232",
+        "expected": "1588059573415675635346786934741672654605665421218506072229438905482163294525287643333323954793474941822492503836292432179913354749461937291482146687445061355898779019205499955085966618612081560168575754704012226137081529219117664231264465965136438355268293879954940552962728290646114887093106321062993215088017420912158268195805523162604682054007547331971946115687338573091950927167844006152996096336584197793797723761899585746977168719028545483035938032142986626827611586787559221707000201684551246855377429189083749116023096794539622623409662022871052749917919661352938917801778300330718059159461598744293192700550407243219991397209579610551588930364580817897318877495676313443691139360757051137055187891192441489836278186322917143594539178335912491491414329991282825800520094611952073796966529284638702603265867959429488560172500184416841649121859496958333258695647791153842259124548495682337802596414428400269175714552169102041068741747916860403314944501564300215608318088614797859964722210686862",
+        "operator": "=="
+      }
+    },
+    {
+      "title": "speed test of getNearestBigger",
+      "fullTitle": "core-js-conditions-n-loops optimal implementation speed test of getNearestBigger",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [
+    {
+      "title": "shuffleChar should return a string in which characters with an odd index are moved to the end of the string at each iteration",
+      "fullTitle": "core-js-conditions-n-loops shuffleChar should return a string in which characters with an odd index are moved to the end of the string at each iteration",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {
+        "stack": "AssertionError [ERR_ASSERTION]: '031425' == '024135'\n    at Context.<anonymous> (test\\conditions-n-loops-tests.js:505:14)\n    at Context.test (extensions\\it-optional.js:17:12)\n    at process.processImmediate (node:internal/timers:485:21)",
+        "message": "'031425' == '024135'",
+        "generatedMessage": true,
+        "name": "AssertionError",
+        "code": "ERR_ASSERTION",
+        "actual": "031425",
+        "expected": "024135",
+        "operator": "=="
+      }
+    },
+    {
+      "title": "speed test of shuffleChar",
+      "fullTitle": "core-js-conditions-n-loops optimal implementation speed test of shuffleChar",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {
+        "stack": "AssertionError [ERR_ASSERTION]: '1702772163609486962179418656138366127956472784392241840956354096391009282719199747162232966943061907797255898884190676750596558153267651496210947289615681959070836910613623583127363683162827029840142262052549994702300841949825369878950918654911990474584003407965218731208675845531904252494622461723651337404027245217597282854016804442721156082312316519235990981917832752169368707596825429589677604425539010292219225857596249694503702577995498486415178166713027587645501091518980305017097708004066081734092295... == '1588059573415675635346786934741672654605665421218506072229438905482163294525287643333323954793474941822492503836292432179913354749461937291482146687445061355898779019205499955085966618612081560168575754704012226137081529219117664231264465965136438355268293879954940552962728290646114887093106321062993215088017420912158268195805523162604682054007547331971946115687338573091950927167844006152996096336584197793797723761899585746977168719028545483035938032142986626827611586787559221707000201684551246855377429...\n    at Context.test (test\\conditions-n-loops-tests.js:630:12)\n    at Context.test (extensions\\it-optional.js:17:12)\n    at process.processImmediate (node:internal/timers:485:21)",
+        "message": "'1702772163609486962179418656138366127956472784392241840956354096391009282719199747162232966943061907797255898884190676750596558153267651496210947289615681959070836910613623583127363683162827029840142262052549994702300841949825369878950918654911990474584003407965218731208675845531904252494622461723651337404027245217597282854016804442721156082312316519235990981917832752169368707596825429589677604425539010292219225857596249694503702577995498486415178166713027587645501091518980305017097708004066081734092295... == '1588059573415675635346786934741672654605665421218506072229438905482163294525287643333323954793474941822492503836292432179913354749461937291482146687445061355898779019205499955085966618612081560168575754704012226137081529219117664231264465965136438355268293879954940552962728290646114887093106321062993215088017420912158268195805523162604682054007547331971946115687338573091950927167844006152996096336584197793797723761899585746977168719028545483035938032142986626827611586787559221707000201684551246855377429...",
+        "generatedMessage": true,
+        "name": "AssertionError",
+        "code": "ERR_ASSERTION",
+        "actual": "1702772163609486962179418656138366127956472784392241840956354096391009282719199747162232966943061907797255898884190676750596558153267651496210947289615681959070836910613623583127363683162827029840142262052549994702300841949825369878950918654911990474584003407965218731208675845531904252494622461723651337404027245217597282854016804442721156082312316519235990981917832752169368707596825429589677604425539010292219225857596249694503702577995498486415178166713027587645501091518980305017097708004066081734092295589843166791114661428358083388345665757246103395691006885423429736253325031501488062491945314612508920676949786919586544693737737285994562566561425568949858887996510223188257331953472110099116985199168699012617351441971312401005667313129126894799125770529717171264000143235432873608541278857614020184432552888131979178194921634649137475474999601223315024312068566665688213710051349544330759945488836598937997192185449739091751841114402463438523302563643474827434754169088639558761850092258232",
+        "expected": "1588059573415675635346786934741672654605665421218506072229438905482163294525287643333323954793474941822492503836292432179913354749461937291482146687445061355898779019205499955085966618612081560168575754704012226137081529219117664231264465965136438355268293879954940552962728290646114887093106321062993215088017420912158268195805523162604682054007547331971946115687338573091950927167844006152996096336584197793797723761899585746977168719028545483035938032142986626827611586787559221707000201684551246855377429189083749116023096794539622623409662022871052749917919661352938917801778300330718059159461598744293192700550407243219991397209579610551588930364580817897318877495676313443691139360757051137055187891192441489836278186322917143594539178335912491491414329991282825800520094611952073796966529284638702603265867959429488560172500184416841649121859496958333258695647791153842259124548495682337802596414428400269175714552169102041068741747916860403314944501564300215608318088614797859964722210686862",
+        "operator": "=="
+      }
+    }
+  ],
+  "passes": [
+    {
+      "title": "isPositive should return a boolean value whether a number is positive",
+      "fullTitle": "core-js-conditions-n-loops isPositive should return a boolean value whether a number is positive",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "getMaxNumber should return the maximum of three numbers",
+      "fullTitle": "core-js-conditions-n-loops getMaxNumber should return the maximum of three numbers",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "canQueenCaptureKing should return true if a queen can capture a king",
+      "fullTitle": "core-js-conditions-n-loops canQueenCaptureKing should return true if a queen can capture a king",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "isIsoscelesTriangle should return boolean whether the triangle is isosceles",
+      "fullTitle": "core-js-conditions-n-loops isIsoscelesTriangle should return boolean whether the triangle is isosceles",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "convertToRomanNumerals should return the number converted to Roman numerals",
+      "fullTitle": "core-js-conditions-n-loops convertToRomanNumerals should return the number converted to Roman numerals",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "convertNumberToString should the original number as a string with numbers replaced by words",
+      "fullTitle": "core-js-conditions-n-loops convertNumberToString should the original number as a string with numbers replaced by words",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "isPalindrome should return a boolean value whether a string is palindrome",
+      "fullTitle": "core-js-conditions-n-loops isPalindrome should return a boolean value whether a string is palindrome",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "getIndexOf should return the index of the first occurrence if the string contains the desired letter",
+      "fullTitle": "core-js-conditions-n-loops getIndexOf should return the index of the first occurrence if the string contains the desired letter",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "isContainNumber should bool value whether the number contains the desired digit",
+      "fullTitle": "core-js-conditions-n-loops isContainNumber should bool value whether the number contains the desired digit",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "getBalanceIndex should returns the index of the balancer element",
+      "fullTitle": "core-js-conditions-n-loops getBalanceIndex should returns the index of the balancer element",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "getSpiralMatrix should return a matrix of size * size that is filled with numbers in ascending order",
+      "fullTitle": "core-js-conditions-n-loops getSpiralMatrix should return a matrix of size * size that is filled with numbers in ascending order",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "rotateMatrix should return the original array rotated by an angle of 90 degrees clockwise",
+      "fullTitle": "core-js-conditions-n-loops rotateMatrix should return the original array rotated by an angle of 90 degrees clockwise",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sortByAsc should return a sorted array",
+      "fullTitle": "core-js-conditions-n-loops sortByAsc should return a sorted array",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "getNearestBigger should return the nearest larger number made up of the digits of the original number",
+      "fullTitle": "core-js-conditions-n-loops getNearestBigger should return the nearest larger number made up of the digits of the original number",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "optimal implementation of convertNumberToString",
+      "fullTitle": "core-js-conditions-n-loops optimal implementation optimal implementation of convertNumberToString",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "speed test of sortByAsc",
+      "fullTitle": "core-js-conditions-n-loops optimal implementation speed test of sortByAsc",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 5,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "speed test of getNearestBigger",
+      "fullTitle": "core-js-conditions-n-loops optimal implementation speed test of getNearestBigger",
+      "file": "C:\\Users\\HP\\Desktop\\тест1\\core-js-conditions-n-loops-tasks\\test\\conditions-n-loops-tests.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}
